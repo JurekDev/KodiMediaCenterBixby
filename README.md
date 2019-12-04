@@ -18,6 +18,7 @@ Enter the following command in your shell: <p>
 
 ![alt text](https://github.com/JurekDev/KodiMediaCenterBixby/blob/master/ngrok1.PNG "Set up your NGROK")
 Now you can use the http://xxxxxxxxx.ngrok.io address for the Bixby Capsule! <p>
+  **ATTENTION: Please use the http:// not the https:// address!**
 
 ![alt text](https://github.com/JurekDev/KodiMediaCenterBixby/blob/master/bixbytest1.PNG "Enter your address")
 
