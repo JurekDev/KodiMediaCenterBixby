@@ -22,6 +22,8 @@ Now you can use the http://xxxxxxxxx.ngrok.io address for the Bixby Capsule! <p>
 ![alt text](https://github.com/JurekDev/KodiMediaCenterBixby/blob/master/bixbytest1.PNG "Enter your address")
 
 ## STEP 4: USE THE MEDIA CENTER REMOTE BIXBY CAPSULE
+Please start a song or album on your Kodi Device, then you can use the Bixby Capsule to pause, play, skip to next or previous song and get infos on the current song. <p>
+ATTENTION: If you don't have a song playing or paused right now, the capsule will tell you that there is a problem with your Kodi Media Center. 
 
 ![alt text](https://github.com/JurekDev/KodiMediaCenterBixby/blob/master/bixbyworking.PNG "SUCCESS")
 
